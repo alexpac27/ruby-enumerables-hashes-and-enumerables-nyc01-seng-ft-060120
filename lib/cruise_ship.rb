@@ -17,4 +17,4 @@ end
 winner
 end
 
-select_winner(passengers)
+p select_winner(passengers)
